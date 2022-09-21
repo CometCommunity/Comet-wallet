@@ -8,7 +8,7 @@
         :class="contentClass"
       />
       <img
-        src="/icons/app/logo-mainnet.svg"
+        src="/icons/app/m-48.png"
         v-else
         class="inline-block min-w-max"
         :class="contentClass"

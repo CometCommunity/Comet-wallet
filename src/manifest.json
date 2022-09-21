@@ -1,11 +1,11 @@
 {
-  "short_name": "Nautilus",
+  "short_name": "Comet",
   "manifest_version": 2,
   "minimum_chrome_version": "48",
   "content_security_policy": "script-src 'self' 'wasm-eval'; object-src 'self';",
   "browser_action": {
     "default_popup": "index.html",
-    "default_title": "Nautilus Wallet"
+    "default_title": "Comet Wallet"
   },
   "background": {
     "page": "background.html",

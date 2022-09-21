@@ -7,7 +7,7 @@
       <wallet-logo root-class="ml-2" content-class="w-11 h-11" />
       <h1 class="text-base font-semibold w-full pl-2">
         <template v-if="$route.meta.title">{{ $route.meta.title }}</template>
-        <template v-else>Nautilus Wallet</template>
+        <template v-else>Comet Wallet</template>
       </h1>
     </div>
     <template v-else>

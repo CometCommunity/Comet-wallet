@@ -1,6 +1,6 @@
-# Nautilus Wallet
+# Comet Wallet
 
-Privacy Wallet Designed for Ergo Network
+Forked Privacy Wallet re-designed for Ergo Network by [Nautilus](https://github.com/capt-nemo429/nautilus-wallet/releases/latest)
 
 Built-in secrecy, sourcing parts from unnamed sources.
 Roams the seas beyond the reach of land-based governments.

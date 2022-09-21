@@ -39,10 +39,10 @@ module.exports = defineConfig({
         config: {
           base: "./src/manifest.json",
           extend: {
-            name: mainnet ? "Nautilus Wallet" : "Nautilus Testnet",
+            name: mainnet ? "Comet Wallet" : "Comet Testnet",
             description: mainnet
               ? "Privacy Wallet Designed for Ergo Network"
-              : "Testnet version of Nautilus Wallet",
+              : "Testnet version of Comet Wallet",
             icons: mainnet
               ? { 48: "icons/app/m-48.png", 128: "icons/app/m-128.png", 512: "icons/app/m-512.png" }
               : { 48: "icons/app/t-48.png", 128: "icons/app/t-128.png", 512: "icons/app/t-512.png" }
@@ -53,7 +53,7 @@ module.exports = defineConfig({
     ]
   },
   pages: {
-    index: { entry: "src/main.ts", template: "public/index.html", title: "Nautilus" },
+    index: { entry: "src/main.ts", template: "public/index.html", title: "Comet" },
     background: { entry: "src/background/background.ts", template: "public/background.html" }
   },
   chainWebpack: (config) => {

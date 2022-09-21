@@ -9,13 +9,13 @@
   >
     <div class="p-4 text-xs flex flex-col gap-4 tracking-normal">
       <h1 class="font-bold text-lg">Know Your Assumptions</h1>
-      <p>Nautilus is an open source tool for interacting with the Ergo Blockchain.</p>
+      <p>Comet is an open source tool for interacting with the Ergo Blockchain based on Nautilus Wallet.</p>
       <div>
         <span class="font-bold">Notice that:</span>
         <ul class="list-inside indent-xs">
           <li>- We don't log, collect, profile, share or sell your data;</li>
           <li>
-            - Nautilus operates on a live blockchain, thus transactions are final, and irreversible
+            - Comet operates on a live blockchain, thus transactions are final, and irreversible
             once they have status «<span class="font-semibold">confirmed</span>»;
           </li>
           <li>
@@ -31,7 +31,7 @@
           </li>
         </ul>
       </div>
-      <p class="font-bold">Nautilus Team doesn't guarantee the absence of bugs and errors.</p>
+      <p class="font-bold">Comet Team doesn't guarantee the absence of bugs and errors.</p>
       <p class="font-bold">
         NO assistance can offered if a user is hacked or cheated out of passwords, currency or
         private keys.
